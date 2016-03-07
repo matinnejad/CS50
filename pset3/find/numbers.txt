@@ -1,0 +1,45 @@
+
+haystack[0] = 
+haystack[1] = 
+haystack[2] = 
+haystack[3] = 
+haystack[4] = 
+haystack[5] = 
+haystack[6] = 
+haystack[7] = 
+haystack[8] = 
+haystack[9] = 
+haystack[10] = 
+haystack[11] = 
+haystack[12] = 
+haystack[13] = 
+haystack[14] = 
+haystack[15] = 
+haystack[16] = 
+haystack[17] = 
+haystack[18] = 
+haystack[19] = 
+haystack[20] = 
+3561
+8332
+13865
+19746
+20085
+21392
+22155
+24507
+28479
+29887
+33774
+41354
+41676
+45793
+46639
+53402
+55305
+56200
+61394
+63688
+
+Didn't find needle in haystack.
+

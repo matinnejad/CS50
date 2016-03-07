@@ -1,0 +1,19 @@
+0.  A BMP can support up to 4,294,967,296 colors.  A GIF can support up to 256 colors.  A JPEG can support up to 16,777,216 colors.  A PNG can support up to 16,777,216 colors.
+1.  GIF
+2.  Lossy compression means that some of the original image information is lost and may reduce image quality.  With lossless compression, no image information is lost and quality is not lowered.
+3.  JPEG
+4.  The filename is modified to indicate the file is deleted, but the file data is not deleted, rather moved to free space.
+5.  Use proper sanitization practices by either using sanitization programs or physically destroying the drive.
+6.  A library that includes several new integer types.
+7.  It declares several unsigned integers of different types to be used in the program.
+8.  8 bytes, 32 bytes, 32 bytes, 16 bytes
+9.  42 4D
+10. bfSize is the size, in bytes, of the bitmap file.  biSize is the the number of bytes required by the structure
+11. The bitmap is a top-down DIB, which means it starts in the upper-left corner.
+12. biBitCount
+13. At that point in the program, the output file hasn't been checked to see if it is NULL, and nothing has been written to it yet.
+14. It is the number of elements to be read, which is 1 in each case.
+15. 3
+16. Allows you to change the location of a file pointer.
+17. Changes the location of a pointer from its current location by setting it to from_where.
+18. Rob Bowden

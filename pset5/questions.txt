@@ -1,0 +1,17 @@
+0.  An obscure term referring to a lung disease cause by silica dust.  Also, it is the longest word in the dictionary.
+1.  Returns resource usage measures.
+2.  16
+3.  They are referenced so that copies don't have to be made every time calculate uses them, saving memory usage.
+4.  It first checks to make sure there are 2 or 3 arguments, and then loads 
+the dictionary and text to be checked.  It then initializes an index for characters 
+to be placed.  It moves through each word adding characters to the index until
+it reaches a non-alphabetical character.  It then checks if the word is misspelled by
+comparing to the dictionary, increases the word count, and resets the index to 0.
+This is repeated until it reaches the end of the file.  At the end of the file, it
+closes file that were used, and calculates resource usage.
+5.  I think it is used because fscanf can lead to buffer overflows if it doesn't know the size of the string in advance.
+6.  Since those values won't change, it makes for more efficient code.
+7.  I used a hash table that uses an arithmetic shift that takes the hash value and shifts the bits by 2.
+8.  It was fast.  Using a hash table was tricky, but helped it run very quickly.
+9.  I did not make any changes as it was already fast, and I didn't feel it needed improvement.
+10. No, I do not believe so.
